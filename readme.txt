@@ -1,4 +1,6 @@
-﻿Létrehozzuk a következő adatbázist
+﻿A "connect.php"-ban meg kell adni a megfelelő szervert és a felhasznólnév/jelszó párost.
+
+Létrehozzuk a következő adatbázist
 
 	CREATE DATABASE `messages` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 	USE `messages`;
