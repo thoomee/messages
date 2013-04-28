@@ -1,10 +1,4 @@
-Ami kell egy Apache + PHP + MySQL szerver
-
-A fájlokat elhelyezzük a webszerveren.
-
-##################################################
-
-Létrehozzuk a következő adatbázist
+﻿Létrehozzuk a következő adatbázist
 
 	CREATE DATABASE `messages` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 	USE `messages`;
