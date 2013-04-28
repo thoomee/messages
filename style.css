@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+		background: #B7B7B7;
+    position:relative;
+    height: auto !important; 
+    min-height: 100%; 
+    height: 100%;
+    width:80%;
+    border:thick solid black;
+		
+		
+}
+
+
+.left_side {
+		background: #BCFF73;
+    position:absolute;
+    left:0px;
+    top:0px;
+		width: 25%;
+		height:400px;
+}
+.center {
+    position:absolute;
+    left:40%;
+    margin-left:-100px;
+    top:0px;
+}
+
+form {
+		margin-left:20px;
+}
+li {
+		list-style: none;
+}
